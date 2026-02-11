@@ -28,3 +28,15 @@ End-Of-Day Checkout
 <img width="1918" height="938" alt="Screenshot 2026-02-10 154016" src="https://github.com/user-attachments/assets/422bb3f2-8c47-42ac-acbc-3d95db9e2a5d" />
 
 This is a simple UI using react and tailwindcss
+
+#Week 3, Day 3
+What did i do yesterday?
+- 
+What will i do today?
+- 
+What are my blockers?
+- 
+End-Of-Day checkout
+<img width="1919" height="946" alt="Screenshot 2026-02-11 153232" src="https://github.com/user-attachments/assets/0c4a0a8b-e9ae-49d7-a683-f6e1f5d33082" />
+
+This is a working persona-AI chatbot 
